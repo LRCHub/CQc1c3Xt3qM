@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "太陽系デスコ",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-02-14T10:46:25.113860Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽系デスコ",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_太陽系デスコ_ナユタン星人.txt"
+    }
+  ]
+}
